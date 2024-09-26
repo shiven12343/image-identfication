@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background:linear-gradient(330deg,black,darkred,red,yellow,red,darkred,black);
+    font-size: 30;
+      font-family: 'Great Vibes';
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects,#status2, #number_of_objects2, #status3, #number_of_objects3, #status4, #number_of_objects4, #status5, #number_of_objects5
+{
+font-size: 18px;
+}
+button{
+    background-color: aqua;
+    color: black;
+    border-radius: 30%;
+}
